@@ -1,4 +1,4 @@
-# vue-admin-template
+# vue-admin
 
 > 根据 https://github.com/PanJiaChen/vue-admin-template.git 修改 添加了菜单在tab页打开功能
 
