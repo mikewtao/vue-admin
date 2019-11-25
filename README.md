@@ -11,7 +11,7 @@
 git clone https://github.com/mikewtao/vue-admin.git
 
 # 进入项目目录
- vue-admin-template
+cd vue-admin
 
 # 安装依赖
 npm install --registry=https://registry.npm.taobao.org
